@@ -6,9 +6,9 @@
 // 変数(num)に1以上の正の数を代入して、プログラム内で使用してください。
 
 let num
-num = 30;
+num = 15;
 
-if (num%15 == 0) {
+if (num%3 == 0 && num%5 == 0) {
     console.log('3と5の倍数です')
 } else if(num%5 == 0) {
     console.log('5の倍数です')
