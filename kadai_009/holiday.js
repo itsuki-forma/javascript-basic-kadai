@@ -11,8 +11,8 @@ for (let i = 0; i <= 16; i += 1) {
 }
 
 // while文
-let i = 0;
-while (i <= 16) {
-    console.log(holidays[i])
-    i += 1;
-}
+//let i = 0;
+//while (i <= 16) {
+//    console.log(holidays[i])
+//    i += 1;
+//}
